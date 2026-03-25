@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-## Name: Sujal Soni  
+## Name: Divyansh Sharma  
 ## Course: CSE0001 – Digital Literacy  
 
 ## 📋 Google Form Link
